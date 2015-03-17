@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <Srcode_Log>
+            <version>1.0.0</version>
+        </Srcode_Log>
+    </modules>
+    <global>
+        <log>
+            <core>
+                <writer_model>Srcode_Log_Model_Writer_Stream</writer_model>
+            </core>
+        </log>
+    </global>
+</config>
