@@ -9,5 +9,5 @@
             "email": "jeroen@srcode.nl"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "1.0.0"
 }
