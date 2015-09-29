@@ -1,0 +1,13 @@
+{
+    "name": "srcode/log",
+    "description": "Do not overflow your written logs",
+    "type": "magento-module",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jeroen Boersma",
+            "email": "jeroen@srcode.nl"
+        }
+    ],
+    "minimum-stability": "dev"
+}
