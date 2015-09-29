@@ -1,5 +1,5 @@
 {
-    "name": "srcode/log",
+    "name": "srcode/cleanlog",
     "description": "Do not overflow your written logs",
     "type": "magento-module",
     "license": "MIT",
