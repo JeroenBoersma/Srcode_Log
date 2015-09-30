@@ -9,5 +9,8 @@
             "email": "jeroen@srcode.nl"
         }
     ],
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
     "minimum-stability": "1.0.0"
 }
